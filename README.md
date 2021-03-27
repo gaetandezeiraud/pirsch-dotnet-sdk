@@ -9,6 +9,8 @@ Available on NuGet: https://www.nuget.org/packages/Pirsch.DotNet.SDK/
 
 See **DesktopConsole** and **UWPConsole** examples.
 
+In this examples, I generate a random ip. But, if you want the Countries data. You can Ping your website to get the internet Ip Address of the user.
+
 ## How filter data?
 
 Pirsch is design for web analytics. So, if you want to use this SDK in the case of a Terminal, WPF or UWP app. We need to use some tricks.
