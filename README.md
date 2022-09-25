@@ -1,3 +1,9 @@
+> 🔴 **Project status**: Discontinued
+  - Project is no longer in development
+  - Issues are not accepted
+  - Pull requests are not accepted
+  - Repository is archived
+
 # Unofficial Pirsch .Net SDK
 
 This is the unofficial .Net client SDK for Pirsch. For details, please check out the [documentation](https://docs.pirsch.io/).   
